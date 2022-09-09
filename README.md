@@ -48,3 +48,8 @@ Event Loop 事件循环机制代码实践
 - XMLHttpRequest/Fetch
 - MessageChannel
 - setImmediate【Node】
+
+## exercise/2
+
+![exercise/2](./images/2.png)
+
