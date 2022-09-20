@@ -58,3 +58,6 @@ Event Loop 事件循环机制代码实践
 
 ![exercise/7](./images/7.png)
 
+## exercise/8
+
+![exercise/8](./images/8.png)
